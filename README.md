@@ -2,7 +2,7 @@
 
 # 🏨 Hotel Review Sentiment Analysis Using BERT in Assamese Language
 
-An NLP project that classifies **Assamese hotel reviews** into **Positive** or **Negative** and *Neutral * sentiments using **Multilingual BERT (mBERT)**. The project demonstrates how transformer-based models can be applied to sentiment analysis for a low-resource language like Assamese.
+An NLP project that classifies **Assamese hotel reviews** into **Positive** or **Negative** and **Neutral** sentiments using **Multilingual BERT (mBERT)**. The project demonstrates how transformer-based models can be applied to sentiment analysis for a low-resource language like Assamese.
 
 ---
 
